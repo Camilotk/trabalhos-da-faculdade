@@ -50,4 +50,11 @@ Disciplina continuação de Principios da Programação para a Internet. Com apr
 - [trabalho-blog](https://github.com/Camilotk/trabalho-blog)
 
 ## Prática Profissional Integrada I
-*Prof:* Maurício Rositto
+**Prof:** Maurício Rositto
+
+Disciplina com o intuito de ensinar a prática profissional de programação, introduzindo o aluno a pequenos projetos práticos utilizando Node, Express, MongoDB e tecnologias JS para a construção de sistemas.
+
+
+*Repositórios:*
+- [pratica-profissional](https://github.com/Camilotk/pratica-profissional)
+- [provap1-api](https://github.com/Camilotk/provap1-api)

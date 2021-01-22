@@ -27,8 +27,27 @@ Disciplina com aprofundamento em boas práticas de programação SOLID e Design 
 - [quanto-custa-meu-carango](https://github.com/Camilotk/quanto-custa-meu-carango)
 
 ## Programação Para Dispositivos Móveis
-*Prof:* Maurício Rositto
+**Prof:** Maurício Rositto
+
+Disciplina com o objetivo de ensinar o desenvolvimento de aplicativos móveis multiplataforma. Foi ministrado a disciplina utilizando JavaScript, React, React Native, Expo, SQLite e bibliotecas de componentes. 
+
+*Repositórios:*
+- [ifrs-dev-mobile](https://github.com/Camilotk/ifrs-dev-mobile)
+- [prova-des-mobile-contatos](https://github.com/Camilotk/prova-des-mobile-contatos)
+- [prova-des-mobile-contatos-sem-ui](https://github.com/Camilotk/prova-des-mobile-contatos-material-ui)
+- [prova-mobile-api](https://github.com/Camilotk/prova-mobile-api)
+
 ## Desenvolvimento De Sistemas Para Internet
-*Prof:* Eduardo Schenato
+**Prof:** Eduardo Schenato
+
+Disciplina continuação de Principios da Programação para a Internet. Com aprofundamento dos conhecimentos anteriores de HTML, CSS e JS e com a introdução de MVC com PHP e frameworks Laravel e Lumen para a construção de projetos.
+
+*Repositórios:*
+- [mvc-dspw](https://github.com/Camilotk/mvc-dspw)
+- [prova-des-sis-web-1](https://github.com/Camilotk/prova-des-sis-web-1)
+- [trabalho-links](https://github.com/Camilotk/trabalho-links)
+- [futnatv](https://github.com/Camilotk/futnatv)
+- [trabalho-blog](https://github.com/Camilotk/trabalho-blog)
+
 ## Prática Profissional Integrada I
 *Prof:* Maurício Rositto

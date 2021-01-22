@@ -1,5 +1,7 @@
 # Trabalhos da Faculdade
 
+Aqui estão todos os trabalhos desenvolvidos durante a graduação em Análise e Desenvolvimento de Sistemas (ADS) no Instituto Federal do Rio Grande do Sul (IFRS) prganizados por Disciplina.
+
 ## Programação Orientada A Objetos
 **Prof**: Jean da Rolt || [@darolt](https://github.com/darolt)
 

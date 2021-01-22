@@ -3,12 +3,12 @@
 Aqui estão todos os trabalhos desenvolvidos durante a graduação em Análise e Desenvolvimento de Sistemas (ADS) no Instituto Federal do Rio Grande do Sul (IFRS) prganizados por Disciplina.
 
 **Indíce:**
-* [Programação Orientada A Objetos](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#programa%C3%A7%C3%A3o-orientada-a-objetos)
-* [Princípios Da Programação Para Internet](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#princ%C3%ADpios-da-programa%C3%A7%C3%A3o-para-internet)
-* [Desenvolvimento De Sistemas](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#desenvolvimento-de-sistemas)
-* [Programação Para Dispositivos Móveis](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#programa%C3%A7%C3%A3o-para-dispositivos-m%C3%B3veis)
-* [Desenvolvimento De Sistemas Para Internet](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#desenvolvimento-de-sistemas-para-internet)
-* [Prática Profissional Integrada I](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#pr%C3%A1tica-profissional-integrada-i)
+1. [Programação Orientada A Objetos](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#programa%C3%A7%C3%A3o-orientada-a-objetos)
+2. [Princípios Da Programação Para Internet](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#princ%C3%ADpios-da-programa%C3%A7%C3%A3o-para-internet)
+3. [Desenvolvimento De Sistemas](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#desenvolvimento-de-sistemas)
+4. [Programação Para Dispositivos Móveis](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#programa%C3%A7%C3%A3o-para-dispositivos-m%C3%B3veis)
+5. [Desenvolvimento De Sistemas Para Internet](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#desenvolvimento-de-sistemas-para-internet)
+6. [Prática Profissional Integrada I](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#pr%C3%A1tica-profissional-integrada-i)
 
 ## Programação Orientada A Objetos
 **Prof**: Jean da Rolt || [@darolt](https://github.com/darolt)

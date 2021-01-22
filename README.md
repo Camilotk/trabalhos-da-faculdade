@@ -1,7 +1,7 @@
 # Trabalhos da Faculdade
 
 ## Programação Orientada A Objetos
-**Prof**: Jean da Rolt
+**Prof**: Jean da Rolt || [@darolt](https://github.com/darolt)
 
 Disciplina em duas partes (POO I e POO II) com mais duas cadeiras de prática à distácia (Laboratório de POO I e Lab de POO II) onde aprende-se a programação orientada a objetos, solid, design patterns, big-o, algoritmos complexos e desenvolvimento de aplicativos desktop. As disciplinas foram inteiramente ministradas em Java. Em POO II e Lab de POO II o Prof. fez a concessão para que os trabalhos práticos fossem feitos em qualquer liguagem a escolha do aluno, eu escolhi então fazê-las em Python. 
 

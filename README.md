@@ -5,6 +5,8 @@ Aqui estão todos os trabalhos desenvolvidos durante a graduação em Análise e
 **Indíce:**
 * [Programação Orientada A Objetos](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#programa%C3%A7%C3%A3o-orientada-a-objetos)
 * [Princípios Da Programação Para Internet](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#princ%C3%ADpios-da-programa%C3%A7%C3%A3o-para-internet)
+* [Desenvolvimento De Sistemas](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#desenvolvimento-de-sistemas)
+* [Programação Para Dispositivos Móveis]()
 
 ## Programação Orientada A Objetos
 **Prof**: Jean da Rolt || [@darolt](https://github.com/darolt)

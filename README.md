@@ -69,3 +69,12 @@ Disciplina com o intuito de ensinar a prática profissional de programação, in
 *Repositórios:*
 - [pratica-profissional](https://github.com/Camilotk/pratica-profissional)
 - [provap1-api](https://github.com/Camilotk/provap1-api)
+
+## Prática Profissional Integrada II
+**Prof:** Maurício Rositto || [@mauriciorosito](https://github.com/mauriciorosito)
+
+Disciplina em que cada aluno colocou em prática as habilidades adquiridas durante a graduação utilizando a Stack aprendida na cadeira anterior - NodeJS - para construir alguma aplicação completa aplicando conceitos de SCRUM aprendidos durante a disciplina. Eu desenvolvi e apresentei o Openflix, um projeto com o objetivo de ser um CMS de OTT de código aberto feito com AdonisJS (backend) e Next.js (frontend).
+
+*Repositórios:*
+- [openflix-api](https://github.com/Camilotk/openflix-api)
+- [openflix-web](https://github.com/Camilotk/openflix-web)

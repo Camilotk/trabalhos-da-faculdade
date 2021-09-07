@@ -79,3 +79,11 @@ Disciplina em que cada aluno colocou em prática as habilidades adquiridas duran
 *Repositórios:*
 - [openflix-api](https://github.com/Camilotk/openflix-api)
 - [openflix-web](https://github.com/Camilotk/openflix-web)
+
+## Qualidade e Teste de Software
+**Prof:** Lissandra Lazzarotto
+
+Disciplina com o intuito de abordar melhores práticas, metodologias e certificações no desenvolvimento de software. Além de também trazer conteúdos e conceitos sobre teste de software.
+
+*Repositórios:*
+- [testes_unitarios](https://github.com/Camilotk/testes_unitarios)

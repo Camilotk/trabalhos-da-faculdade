@@ -10,6 +10,8 @@ Aqui estão todos os trabalhos desenvolvidos durante a graduação em Análise e
 5. [Desenvolvimento De Sistemas Para Internet](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#desenvolvimento-de-sistemas-para-internet)
 6. [Prática Profissional Integrada I](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#pr%C3%A1tica-profissional-integrada-i)
 7. [Prática Profissional Integrada II](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#pr%C3%A1tica-profissional-integrada-ii)
+8. [Qualidade e Teste de Software](https://github.com/Camilotk/trabalhos-da-faculdade/blob/main/README.md#qualidade-e-teste-de-software)
+
 
 ## Programação Orientada A Objetos
 **Prof**: Jean da Rolt || [@darolt](https://github.com/darolt)
@@ -81,9 +83,9 @@ Disciplina em que cada aluno colocou em prática as habilidades adquiridas duran
 - [openflix-web](https://github.com/Camilotk/openflix-web)
 
 ## Qualidade e Teste de Software
-**Prof:** Lissandra Lazzarotto
+**Prof:** Lissandra Lazzarotto || N/A
 
-Disciplina com o intuito de abordar melhores práticas, metodologias e certificações no desenvolvimento de software. Além de também trazer conteúdos e conceitos sobre teste de software.
+Disciplina com o intuito de abordar melhores práticas, metodologias e certificações no desenvolvimento de software. Além de também trazer conteúdos e conceitos sobre teste de software. No final da Disciplina cada aluno ficou responsável por realizar uma explicação teórica e prática sobre um tipo de testes na linguagem de preferência. Os tipos de testes foram dividos entra a turma, fiquei com o de unidade e decidi fazer a explicação em OCaml.
 
 *Repositórios:*
 - [testes_unitarios](https://github.com/Camilotk/testes_unitarios)
